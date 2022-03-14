@@ -1,4 +1,4 @@
-Feature: VivaWallet - Test Automation exercise - API
+Feature: Test Automation exercise - API
   As a user
   I want to retrieve book information based on ISBN code.
 
